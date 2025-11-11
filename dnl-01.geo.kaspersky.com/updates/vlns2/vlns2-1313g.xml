@@ -1,0 +1,45 @@
+<Update
+	Date="06112025 1108"
+	BlstDate="06112025 0838"
+	ObjectType="2=VLNS2;3=BASE"	
+	Format="2.0"
+	DiffsPath="@ServerPath@/diffs"
+	MaxDownloadSizeKb="29692"
+	CompID="VLNS2"
+	LocalPath="%BaseFolder%">
+	<Exclude
+		App="KES 10.[2-3].*.*"/>
+	<File
+		Shell="bdif;klz;none"
+		Name="vlns2.db"
+		DSKM="73C/iAlOVUdaEeV1VhcmK/0jJ4LQooUmL5T2MARDDb0="/>
+	<Index
+		CompID="VLNS2,RETR1901_VLNS2"
+		App="!KES 10"
+		Name="unmod-vlns2-1313g.xml"
+		Date="06112025 1108"/>
+	<Index
+		CompID="VLNS2,RETR1901_VLNS2"
+		App="KES 10"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-vlns2-1313g.xml"
+		Date="06112025 1108"/>
+	<Index
+		CompID="VLNS2,RETR1901_VLNS2"
+		App="KES 10"
+		Target="[1-262143]"
+		Name="unmod-vlns2-1313g.xml"
+		Date="06112025 1108"/>
+	<File
+		CompID="RETR1901_VLNS2"
+		Shell="xdif;klz;none"
+		LocalPath="%DataFolder%"
+		Name="vlns2-1901g.xml"
+		DSKM="ZIMCWmiRFma7cVrk7d0xP60q+tFNfeYi+hIGYSqG5so="/>
+	<Key
+		CompID="NULL"
+		LocalPath="%DSKM%"
+		Name="vlns2-1313g.pbv">S0xyZwH6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAQAQHipAAF4T5PDtrHKLg/UxlfCgvIAWQ0IiOZP+FgysZXYYdXAddkev8Gw/PRzdVtsedBQLRBVh5MTjOIFf87EbGs4yCA0BAB4J0QAAAAIAAigFAFZMTlMyAwACKAQAQkFTRQEAAAnmIBaCDQo7OjEwYTc1dmM2RUxtT1ArREk0dmtmTTNWb1BQNWJCRlpSbjgvcXJSallDVWIxVG42MElpTTNseERMOXZCY2Y5d0dsOWVrSnMveHhUZ3ZLSEdHL1NSbkk3Wm0lJQ==</Key>
+</Update>
+;:10K5TBOhQ65p+HQnGpHRjVOeKTFew9RqoMIpq8x8KimRLPdtVn95/MFPqZOBYuLO6+XwFSZfX3EqKAWLYUA1Hv12%%

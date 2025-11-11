@@ -1,0 +1,24 @@
+<Update
+	Date="10112025 0802"
+	BlstDate="09112025 2037"
+	ObjectType="2=IDSIR;3=BASE"	
+	Format="2.0"
+	DiffsPath="@ServerPath@/diffs"
+	MaxDownloadSizeKb="727"
+	CompID="IDSIR">
+	<File
+		App="KICSNET 2.9.*.*;KICSNET 3.[0-1].*.*;KICSNET 4.[0-3,5]"
+		Name="idsir.2.8.zip"
+		DSKM="iDtYTwQJh5Flcz8sT8nhV3lQdo0l8T2tv3pg8GClUjs="/>
+	<File
+		CompID="RETR1901_IDSIR"
+		Shell="xdif;klz;none"
+		LocalPath="%DataFolder%"
+		Name="idsir-1901g.xml"
+		DSKM="M6NhoVF7OPsdwirL/OpSJPJP7ROrCl9gMf2VBZD8OIA="/>
+	<Key
+		CompID="NULL"
+		LocalPath="%DSKM%"
+		Name="idsir-1313g.pbv">S0xyZwH6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAQAQHipAAFmH2/HnED3E/S0e+RihCgBNkv8B8nUtKL55pDUqdV0RAoOR2ic6VQZa0jpB9vVOoMIvKRKrZ7iiaOdJdKksCXwBAB4JqAEAAAIAAigFAElEU0lSAwACKAQAQkFTRQEAAAkTbbOrDQo7OjEwcVE2Y0pXbEx1bkhFanQyTDhHejNYSnNCekJEaittQmFxc2d5c2JEaU04ZmI0eVVsakZGVGtIODFnR1BOS01acGRkNUJ1UitsQ1lyWUlmTVhZQVA0OVIlJQ==</Key>
+</Update>
+;:10q192dWN0/hIz0tvnL/7SugVG/sytTBHbVwih361FBj/0dgapZ5whdQLLb14et4duJvVSFnbkwPrkqUoS+GcVPj%%

@@ -1,0 +1,25 @@
+<UpdateFiles
+	UpdateDate="10112025 0831"
+	BlackDate="09112025 2037"
+	ObjectType="2=CDBM;3=BASE">
+	<FileDescription
+		ComponentID="CDBM"
+		UpdateType="base"
+		App="KESA 10.[33-34].*.*;KESA 10.6.2.*;KESA 10.7.[0-2].*;KESA 10.8.[0-3].*;KISM 11.[12-83].*.*;KSMMSDK 4.[10-40].*.*;KSMMSDK 5.[3-12].*.*"
+		LocalPath="%BaseFolder%"
+		FileDate="10112025 0830"
+		Filename="mcertdb.dat"/>
+	<Registry
+		ComponentID="NULL"
+		UpdateType="KLKEY"
+		LocalPath="%DSKM%"
+		Body="S0xyZwH6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAQAQHipAAAYaAJPelK69XXnLiAygXXLYMpE2qRKuFOWiD8W1tZ42G5fBSTbb6rNA0IEG/LzkRc68bPVKF1yvoRAQBuIOZMwBAB4JVAEAAAIAAigEAENEQk0DAAIoBABCQVNFAQAACYnTnYYNCjs6MTA0NlVydGhFbmo5WWpHOWx1cWlFV20ySDVFRTRpZnpHQVNPYkVWdzEyQnR5ZDZncjhYY3M2NitNbEJVN29XWW85bGxkNXVINlAzdGFOWFdzbnlFZjY3OSUl"
+		Filename="cdbm-0607g.pbv"/>
+	<Registry
+		ComponentID="NULL"
+		UpdateType="REGISTRY"
+		LocalPath="%DSKM%"
+		Body="S0xyZwFUAQBLTHN3AACtrQEAAAD8AwAAAQAAAAEAABRqAQABACAASrfKAt3NRr8LwHd/iM3YLQgklN6E07a+pC0h9iZwv1kBAB4JVAEAAAEAAAlD8rb+DQo7OjEwcU9rYVRNeDlaT2UxcFRMbFRnVlpLRDdUbzZkTVk5cjZpaGt0djNTVlZBYncyaUl6dFJqNXAzMDYvQmxMT2UwYmJDQU1zZ0hwNG8yZklBdVAyUXVzVjYlJQ=="
+		Filename="cdbm-0607g.krg"/>
+</UpdateFiles>
+;:10qQCdTAUgvOfHzONCVL8GyaO03jL3lTHCKxokes9zYXCW0PuIb6EfKitehiMNo5lm4gdIc5KTpKK8c0Kd8FS9Cj%%

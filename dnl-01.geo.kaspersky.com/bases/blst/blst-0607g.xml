@@ -1,0 +1,25 @@
+<UpdateFiles
+	UpdateDate="10112025 2038"
+	ObjectType="2=BLST;3=BASE">
+	<FileDescription
+		ComponentID="BLST"
+		UpdateType="blst"
+		SolvePeriod="31"
+		LocalPath="%BlstFolder%"
+		Filename="black.lst"
+		FileSize="146252"
+		FileDate="10112025 2037"/>
+	<Registry
+		ComponentID="NULL"
+		UpdateType="KLKEY"
+		LocalPath="%DSKM%"
+		Body="S0xyZwH6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAQAQHipAAAZ610XL2zreRYrsP8vJfzaJl1QzOvgTCvM0AwRR2M7uQ50y6EbWkEhJ5wmONCObU+7p5MrwsTnSp8LDMxVNmy0BAB4JEQAAAAIAAigEAEJMU1QDAAIoBABCQVNFAQAACZxy3koNCjs6MTBxRFF0bmVFRnl3SEhLSzkwdDNFUndkeGJjOTgrK0c2RkxuWEY1WXYrYlF2M21vWUh0RE5RVnFNbC9GSUNFQk5kZTBXczJuNHBUQU1udHE4ZDMzTjBqLyUl"
+		Filename="blst-0607g.pbv"/>
+	<Registry
+		ComponentID="NULL"
+		UpdateType="REGISTRY"
+		LocalPath="%DSKM%"
+		Body="S0xyZwERAABLTHN3AACtrQEAAAD8AwAAAQAAAAEAABRqAQABACAAfX/dy9uAv3WT5S7z2z+2+QMsuWLSfx9CdDMfurQtDBQBAB4JEQAAAAEAAAkDk3wHDQo7OjEwS1A0aVlsZmp3ZjZFc0ZKTmtiV2htRitSQmVHOFdnL0hoTW4yVkpWUkRiQ21vWTcwZHhFcFlmd2pQcS9tZzdXdnJWa21Id3JUangrbjNmQW44UFFwdlklJQ=="
+		Filename="blst-0607g.krg"/>
+</UpdateFiles>
+;:10q1RnrR4HJH8wvMGPwpAHp8QJLNUEH8LEYB8YqIl6d6ieq1xB4WCHdnlf3ARxVbcn+bkgwxnTcqPJA/V/FTPsH0%%

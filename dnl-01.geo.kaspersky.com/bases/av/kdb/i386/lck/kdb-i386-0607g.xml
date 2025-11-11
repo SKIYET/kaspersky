@@ -1,0 +1,29 @@
+<UpdateFiles
+	UpdateDate="10112025 2305"
+	BlackDate="10112025 0838"
+	ObjectType="2=KDB;3=BASE">
+	<EOL
+		ComponentID="KDB,EMU"
+		App="KAV 11.*.*.*;KAV 12.*.*.*;KIS 11.*.*.*;KIS 12.*.*.*"/>
+	<FileDescription
+		ComponentID="KDB"
+		UpdateType="base"
+		App="KAV 13.*.*.*;KIS 13.*.*.*;KSOSFS 13.*.*.*;KSOSPC 13.*.*.*"
+		ServerFolder=".."
+		LocalPath="%BaseFolder%\Stat"
+		Filename="kdb.stt"
+		Body="Mjc5MDc4MjA7MjAyNTExMTAyMzA2DQo="/>
+	<Registry
+		ComponentID="NULL"
+		UpdateType="KLKEY"
+		LocalPath="%DSKM%"
+		Body="S0xyZwH6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAQAQHipAABGQULGE3kSlRY+f6lenG1HkPTyJsFN4JGnYMFU+MfCMIue6PKeOIW7rBTmnnFmZx4w3PEi1UOuQHXV9aEbrA6MBAB4JlAAAAAIAAigDAEtEQgMAAigEAEJBU0UBAAAJcXy+jg0KOzoxMGFHOWlSZkxUK2cvT0J2cmkwSitFNDEyTVpuUXAwajlscVBacHdHVWJOTU1qYlVhK1o2c0NvZEtBNU9BNWNUNzgrcmV1dlhMdFlvMW9KSnRqVzV4dkJ0JSU="
+		Filename="kdb-i386-0607g.pbv"/>
+	<Registry
+		ComponentID="NULL"
+		UpdateType="REGISTRY"
+		LocalPath="%DSKM%"
+		Body="S0xyZwGUAIBLTHN3AACtrQEAAAD8AwAAAQAAAAEAABRqAQABACAAP/UReYSyVUaLddDhcvWrwgLGrXhpNI1k7sfndc6FhcoCAB4BAQAeCZQAAAABAAAJ+kG8sw0KOzoxMHE4UWdSdUFWSU5RNk50YUZRMWluR2hiamx1V0ZMcHBiVnhsMlE3VjZNeUptdHhBd0F3K0lYZitlUE5JM3V3RU1OVUNnczhQaE9CZUkxcHQwY0lIQXhTJSU="
+		Filename="kdb-i386-0607g.krg"/>
+</UpdateFiles>
+;:10aPlEDwfEIQEOjtw220DL7ovxuUKgqET2CaH2Wv+1C1fAtCQCCTiu3SfeZ4Ik+jpcYmTgC7ltpmpuv5r0SglqDt%%

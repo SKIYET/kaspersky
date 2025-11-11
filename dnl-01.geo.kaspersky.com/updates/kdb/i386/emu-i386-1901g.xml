@@ -1,0 +1,608 @@
+<Update
+	Date="10112025 2306"
+	BlstDate="10112025 0838"
+	ObjectType="2=KDB;3=BASE"	
+	Format="3.0"
+	DiffsPath="@ServerPath@/diffs"
+	MaxDownloadSizeKb="10"
+	CompID="EMU,KDBIND"
+	Arch="i386"
+	LocalPath="%BaseFolder%">
+	<Index
+		App="!KAV|KIS|KES|PURE|KASPERSKY|KSOSPC|KSOSFS [10,11,14-21];KSOSPC|KSOSFS [15,17-18];PURE 15"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS 14"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS 14"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS 15"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS 15"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 16"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 16"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 17"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 17"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 18"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 18"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 19"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 19"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 19"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 19"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 20"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 20"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 20"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE 20"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.[0-9]"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.[0-9]"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE|KASPERSKY 21.[0-9]"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KAV|KIS|PURE|KASPERSKY 21.[0-9]"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.13"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.13"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.13"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.13"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.14"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.14"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.14"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.14"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.15"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.15"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.15"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.15"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.16"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.16"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.16"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.16"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.17"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.17"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.17"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.17"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.18"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.18"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.18"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.18"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.19"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.19"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.19"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.19"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.20"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.20"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.20"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.20"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.21"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.21"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.21"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.21"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.22"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.22"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.22"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.22"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.23"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.23"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.24"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KSOSPC|KSOSFS 21.24"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.23"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.23"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.24"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KASPERSKY 21.24"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 10"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 10"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 11"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 11"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.[0-9]"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.[0-9]"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.13"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.13"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.14"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.14"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.15"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.15"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.16"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.16"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.17"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.17"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.18"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.18"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.19"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.19"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.20"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.20"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.21"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.21"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.22"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.22"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.23"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.23"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.24"
+		Target="0"
+		SrvPath="mod"
+		Name="mod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Index
+		App="KES 21.24"
+		Target="[1-262143]"
+		Name="unmod-emu-i386-1901g.xml"
+		Date="10112025 1946"/>
+	<Key2
+		CompID="NULL"
+		LocalPath="%DSKM%"
+		Name="kdb-i386-1901g.pbv">S0xyZwL6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAQAQHipAAFIUXoOt7koEqv1anwp2r1kQUIbh74I3/zV9x3uUWFIGgXadJz+iQmucTVlt/Di7p7s54OWsMBry6AC+Xyzo4gkBAB4JlAAAAAIAAigDAEtEQgMAAigEAEJBU0UBAAAJ9P0zEQ0KOiEyODQwMUdXQU9WNXA5ck1mbmNLWGNMcW5RYWdvNCtTNWdiMllPUUJtYXJ4WGpOcTFoYStidFRRR0x4blRyMUIvY1czQUhlTTcxanlKQVZ2WU1MLzRiL3J1VVBiMiUl</Key2>
+</Update>
+:!28401G0MHvKzr/pHx2Sfvn6mIo8U3k5Z1+lyZAqWGuj6JZDhdihgZEqtqc0GAoZGpP+hxjEGsSIyDRrXhBmbSKQQu6A1%%
+=!AQAA1wsADqU6RAAA0Ç”+Å∏té†Ç¡1ÇΩ0Çπ10
+*Ö0B+Å∏té†200.0
+*Ö *í6ÃπﬂFí)+‚s‘k—)Gdƒ∂5C¿˘e‘FÅë˚†Çë0Ç:0ÇÁ† Ñhû6ØOW∞v≠ìo∞$›0
+*Ö0G10	URU10UMoscow10U
+Kaspersky Lab10U3520p10200903110145Z480120110145Z0J10	URU10UMoscow10U
+Kaspersky Lab10U	3520p1_KL0h0!*Ö0	*Ö*ÖC @√§µ@áÚë√Y6∫òIÆÖ_Ayÿ¥øx£ïO{b\CgF@:ı&°04NlÊ‡áÈÊ£EÜ7Ò∑Ê£Oí©_ó¥/P£Å°0Åû0+U#$0"Ä  Êü°?ÄæŒÇF„◊[ÆÄ≈‘Üqª∆◊õ˙ˆ’Z0)U" ŸákéæÇåﬁû‰Œ®ù€ÿ<‡(ÆIêLå˘A•l0Uˇ0Uˇ0ˇ0#+Å∏téˇ0+Å∏té0
+*ÖA ﬂq*,;\ô÷Ï¨A:OËÛºÊMˆÌ∞Ê#q˘W¢0*•~ÄÛ? Bˆ⁄ß7NûhIΩπ≈»>È ÇNo0ÇO0Ç¸†;/Ó
+¸ÑœÎÅI	‚0
+*Ö0J10	URU10UMoscow10U
+Kaspersky Lab10U	3520p1_KL0250505123856Z260729123856Z0U10	URU10UMoscow10U
+Kaspersky Lab10Ucompid=KDB_type=BASE0h0!*Ö0	*Ö*ÖC @‹ﬂö8PJzãØÙÒoc•A[† B<t≠cßÖΩ”ÄPEˇ0@íÀG(˘qAqC°~îeqÀ√À˜Ø.⁄EP&£Å©0Å¶0+U#$0"Ä ŸákéæÇåﬁû‰Œ®ù€ÿ<‡(ÆIêLå˘A•l0)U" Ÿ‰—À¶Ω©ËŒ⁄‹†AÍ[µf¨·÷◊
+‹,+Â(0UˇÄ0U%ˇ0
++0$+Å∏téˇ0+Å∏té0
+*ÖA +’dÌ8Ïr∆`÷≥„,Æ©]l+Å— ûçåA	&, ¶ë‰á¬P^UCÁ” Uuàr∆
+ÆΩºΩ›«r@„1ÇÀ0Ç«†" Ÿ‰—À¶Ω©ËŒ⁄‹†AÍ[µf¨·÷◊
+‹,+Â(0
+*Ö0
+*Ö@ƒJ^πU◊GRê>7á¨Õ∏;`8`5htC∏=ˆ‘Ütcä…˝=Mwﬁ2{Ç≥≥cPòs˜º∂\^ñ™°ÇB0Ç>
++Ç71Ç.0Ç*	*ÜHÜ˜†Ç0Ç10
+*Ö0j*ÜHÜ˜	†[Y0W*0.0
+*Ö <Ë’Zœôq¸âí^óÈ˘–0≤##•beªÚ·≈yç
+!ª20251110230624.5491076Z†ÇZ0Ç0Ç…† ë
+∆ÇÛ¨M£Üê”Ã_¬ê0
+*Ö0T10	URU10UMoscow10U
+Kaspersky Lab10U3520p1_KL_Timestamp0250110115903Z260525115903Z0O10	URU10UMoscow10U
+Kaspersky Lab10Utype=Timestamp0h0!*Ö0	*Ö*ÖC @Ü¡¿˚ha≠Kè	≤Y≈G¯7{©;N)ë'æÇn{r¨èÖ·>T&“õ˘≤Rv©ÜÅ≈Y6£gt!?¸a–Ò¥º£r0p0+U#$0"Ä ;*%uñ”Æ”ï] ÌÏN∂ôp<B±∏¥ê=Ëta/†÷0)U" ç&«€ƒ*ñ8z¢ı◊M©f9ê∆s±~¶iÕ”,0U%ˇ0
++0
+*ÖA 
+3E`ƒíAc≥U O·’BåOóˆó~ze<◊D}Ue÷	‚ {À*≤⁄ˆ]≥ÿWÜnßBâÎ¡'çÀËh∫ ﬂC0Ç60Ç„†G¢~YFCÆº∆ADm\ôÚ0
+*Ö0G10	URU10UMoscow10U
+Kaspersky Lab10U3520p10200903110221Z480120110221Z0T10	URU10UMoscow10U
+Kaspersky Lab10U3520p1_KL_Timestamp0h0!*Ö0	*Ö*ÖC @´kÑê8œ P8qFŸùAœ€ÎÚŸÜ–4™Lyxïûc‹)ÂG,àÁV:TZ.Bßû∫åÏ´F÷G
+Ä{î◊£Åî0Åë0+U#$0"Ä  Êü°?ÄæŒÇF„◊[ÆÄ≈‘Üqª∆◊õ˙ˆ’Z0)U" ;*%uñ”Æ”ï] ÌÏN∂ôp<B±∏¥ê=Ëta/†÷0Uˇ0Uˇ0ˇ0U%ˇ0
++0
+*ÖA (^∑«Ì‚‘„i!rOÖ@a«n^Ë†Ê≤ïÔ´Ñ»ÙÓ*’É1˜8J-=ß†O√{BzÕI™;§ô®ıJ1Ç80Ç4†" ç&«€ƒ*ñ8z¢ı◊M©f9ê∆s±~¶iÕ”,0
+*Ö†Å∞0	*ÜHÜ˜	1*ÜHÜ˜	0	*ÜHÜ˜	1251110230624Z0/	*ÜHÜ˜	1" ÚÓü4>˜_íﬁOˇ$•KínNº^rLË∞(‰‘î˙0C*ÜHÜ˜	/1402000.0
+*Ö W∫“„©e¢LÓN@Ê≈àù0∫“ΩvEt'Ò5—1`¬0
+*Ö@-!JéùËõáRﬁ∏,L{´êf∏KØ«ñ≤‡I ÉcÙiA0W9Ω∆>f†Ç≈RˆíIQFq÷‹–å4*%%

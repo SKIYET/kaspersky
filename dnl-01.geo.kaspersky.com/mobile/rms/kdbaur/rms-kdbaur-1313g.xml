@@ -1,0 +1,23 @@
+<Update
+	Date="10112025 2104"
+	ObjectType="2=KDBAUR;3=BASE"	
+	Format="2.0"
+	DiffsPath="@ServerPath@/diffs"
+	MaxDownloadSizeKb="10"
+	CompID="KDBAUR"
+	LocalPath="%BaseFolder%">
+	<File
+		Name="kavbase.rms"
+		DSKM="5ZAfG6edwVnbdXMW81ixCK9DFGmRHFNn3r4Apdy/Lm4="/>
+	<File
+		CompID="RETRUM1901G_KDBAUR,RETR1901_KDBAUR"
+		Shell="xdif;klz;none"
+		LocalPath="%DataFolder%"
+		Name="rms-kdbaur-1901g.xml"
+		DSKM="hebyP4vDcK47A5UXN8HlUr8tLJ3x6Bw+EcnE4/CYaBo="/>
+	<Key
+		CompID="NULL"
+		LocalPath="%DSKM%"
+		Name="kdbaur-1313g.pbv">S0xyZwH6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAQAQHipAACCdunoeBdUFOC2Af9QrMz4hFTWyldMCJbOQ+REjA1hWP1TPnCEYCNvgkzeg9EuHEt36AUxeOho4Q42CHjoqnKEBAB4J7wEAAAIAAigGAEtEQkFVUgMAAigEAEJBU0UBAAAJRdm2mg0KOzoxMEsxWURaVXZ0ektOTHdGOXFGdVBZU21QRDNJdkNnc2ZEYkx5WTMvV3B4ejJLNmp5akljc0ZEYVJrK3FESlhrYUhjY3UwYU1KOEp6WkVOeC9VbVEwZW1kJSU=</Key>
+</Update>
+;:10aPkNztNNS8wIZfg75mA7XntKjGrn2PX6w6ikO4dIG6pY7bM4D36xLKOR8iWNXcOvNa/dEU8dcjG7j/qwz/moa6%%
